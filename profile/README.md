@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SchemaFirst/.github/main/brand/org-avatar-512.png" width="120" height="120" alt="SchemaFirst">
+  <img src="https://schemafirst.org/brand/org-avatar-512.png" width="120" height="120" alt="SchemaFirst">
 </p>
 
 <h1 align="center">SchemaFirst.org</h1>

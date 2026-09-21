@@ -1,6 +1,6 @@
 # GitHub org branding — SchemaFirst
 
-Build sheet for [github.com/SchemaFirst](https://github.com/SchemaFirst). Visuals match [www.schemafirst.org](https://www.schemafirst.org): mark from `/icon.svg`, type Geist, teal `#1FBAB0`.
+Build sheet for [github.com/SchemaFirst](https://github.com/SchemaFirst). Visuals match [www.schemafirst.org](https://www.schemafirst.org): schema-bracket mark, Geist wordmark, teal `#1FBAB0`.
 
 **Decided:** org login `SchemaFirst` (GitHub is case-insensitive; `schemafirst` resolves here). Canonical site `https://www.schemafirst.org`.
 
@@ -30,7 +30,7 @@ Until those move, the org README points at both. Confirm before transferring `co
 | Light bg | `#F4F6F6` |
 | Type | Geist / Geist Mono |
 | Wordmark | **SchemaFirst** + muted `.org` |
-| Mark | Teal rounded square, white S from site `icon.svg` |
+| Mark | Dark rounded square, teal brackets, three bars (teal / white / muted) |
 
 ## 2. Org profile (Settings → General / Profile)
 
@@ -39,7 +39,7 @@ Until those move, the org README points at both. Confirm before transferring `co
 | Name | `SchemaFirst.org` |
 | Description | Universal, openly governed standards for publishing authoritative organizational context so any compatible AI starts from the same source of truth. |
 | URL | `https://www.schemafirst.org` |
-| Avatar | `brand/org-avatar-1000.png` (or 512) |
+| Avatar | https://schemafirst.org/brand/org-avatar-512.png |
 | Twitter | leave empty until a SchemaFirst handle exists (`@lksyorg` is the old one) |
 | Verified domain | add `schemafirst.org` (DNS TXT from GitHub) |
 
@@ -51,7 +51,7 @@ Special public repo named `.github` with `profile/README.md`. Source in this rep
 
 ## 4. Per-repo social preview
 
-GitHub: Settings → General → Social preview → `brand/social-preview-1280x640.png` (1280×640). Editable source: `brand/social-preview.svg`.
+GitHub: Settings → General → Social preview → https://schemafirst.org/brand/social-preview-1280x640.png (1280×640). Wordmark: https://schemafirst.org/brand/logo-horizontal-dark-bg.svg
 
 ## 5. Community health (this `.github` repo)
 
@@ -63,17 +63,15 @@ Defaults for every repo in the org: `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `SE
 - Topics: `schemafirst`, `brand-schema`, `gtm`, `ai-context`, `open-standards`
 - Badges: shield color `%231FBAB0`, `labelColor=020303`
 
-## 7. Assets (`brand/`)
+## 7. Assets (canonical)
 
-| File | Use |
+Hosted on the site. Copies also live in [SchemaFirst/.github/brand](https://github.com/SchemaFirst/.github/tree/main/brand).
+
+| URL | Use |
 | --- | --- |
-| `org-avatar-512.png` / `org-avatar-1000.png` | Org avatar |
-| `org-avatar.svg` | Vector avatar (full-bleed teal) |
-| `social-preview-1280x640.png` / `social-preview.svg` | Repo OG |
-| `logo-horizontal-dark-bg.{svg,png}` | Wordmark on dark |
-| `logo-horizontal-light-bg.{svg,png}` | Wordmark on light |
-
-PNGs were rasterized on the live site so Geist is the real webfont, not a substitute. Mark path is copied from `https://www.schemafirst.org/icon.svg`.
+| https://schemafirst.org/brand/org-avatar-512.png | Org avatar |
+| https://schemafirst.org/brand/social-preview-1280x640.png | Repo OG |
+| https://schemafirst.org/brand/logo-horizontal-dark-bg.svg | Wordmark on dark |
 
 ## Checklist
 
