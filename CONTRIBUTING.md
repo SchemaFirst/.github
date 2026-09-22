@@ -1,11 +1,11 @@
 # Contributing to SchemaFirst
 
-SchemaFirst.org publishes universal, openly governed standards for organizational AI context. Standards are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+SchemaFirst.org publishes universal, openly governed standards for organizational AI context. Standards are released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). Implementing, fetching, or serving them in a commercial product requires no additional license from SchemaFirst.
 
 ## Where to work
 
 - **Site and product questions:** [www.schemafirst.org](https://www.schemafirst.org)
-- **Standards content (today):** [lksy-org/community-standards](https://github.com/lksy-org/community-standards)
+- **Standards content:** one repository per standard, starting with [SchemaFirst/brand-schema](https://github.com/SchemaFirst/brand-schema)
 - **This org:** [github.com/SchemaFirst](https://github.com/SchemaFirst)
 
 ## How to propose a change

@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.schemafirst.org"><img src="https://img.shields.io/badge/schemafirst.org-%231FBAB0?style=for-the-badge&labelColor=020303" alt="schemafirst.org"></a>
   <a href="https://www.schemafirst.org/standards/brand-schema"><img src="https://img.shields.io/badge/Brand%20Schema-%231FBAB0?style=for-the-badge&labelColor=020303" alt="Brand Schema"></a>
-  <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-%231FBAB0?style=for-the-badge&labelColor=020303" alt="CC BY 4.0"></a>
+  <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/license-Apache%202.0-%231FBAB0?style=for-the-badge&labelColor=020303" alt="Apache 2.0"></a>
 </p>
 
 ## What we publish
@@ -29,8 +29,8 @@ Created in public · Governed by the community · Owned by no vendor
 
 ## Repositories
 
-Standards content currently lives in [`lksy-org/community-standards`](https://github.com/lksy-org/community-standards) while this org is stood up. Site and GitHub links will point here once that transfer is confirmed.
+One repository per standard. [`SchemaFirst/brand-schema`](https://github.com/SchemaFirst/brand-schema) is the first.
 
 ## Contribute
 
-Start at [schemafirst.org](https://www.schemafirst.org) → Community. Standards are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Start at [schemafirst.org](https://www.schemafirst.org) → Community. Standards are released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0): implement, fetch, and serve them in any product, commercial or not, with no additional license from SchemaFirst.
